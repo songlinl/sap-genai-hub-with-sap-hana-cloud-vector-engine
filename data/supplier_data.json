@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Supplier A",
+        "location": "Europe",
+        "quality_rating": 4.5,
+        "price_rating": 3.8,
+        "delivery_time_days": 7,
+        "contact_name": "Alice Smith",
+        "contact_email": "alice.smith@supplierA.com",
+        "contact_phone": "+49 170 1234567"
+    },
+    {
+        "name": "Supplier B",
+        "location": "Asia",
+        "quality_rating": 4.2,
+        "price_rating": 4.0,
+        "delivery_time_days": 10,
+        "contact_name": "Bob Lee",
+        "contact_email": "bob.lee@supplierB.com",
+        "contact_phone": "+65 81234567"
+    },
+    {
+        "name": "Supplier C",
+        "location": "Europe",
+        "quality_rating": 4.8,
+        "price_rating": 3.5,
+        "delivery_time_days": 6,
+        "contact_name": "Charlie Brown",
+        "contact_email": "charlie.brown@supplierC.com",
+        "contact_phone": "+33 612345678"
+    }
+]
