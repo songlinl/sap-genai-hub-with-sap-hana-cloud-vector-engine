@@ -1,4 +1,4 @@
-# SAP HANA Cloud with Vector Engine and GenAI Hub
+# Retrieval-Augmented Generation Powered by SAP Gen AI Hub and SAP HANA Cloud
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/sap-genai-hub-with-sap-hana-cloud-vector-engine)](https://api.reuse.software/info/github.com/SAP-samples/sap-genai-hub-with-sap-hana-cloud-vector-engine)
 
